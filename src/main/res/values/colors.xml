@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkyellow">#F9BD34</color>
+    <color name="brightyellow">#FFFF33</color>
+    <color name="overlay_background">#7F333639</color>
+    <color name="overlay_ActionBar">#0e0d0e</color>
+
+</resources>
